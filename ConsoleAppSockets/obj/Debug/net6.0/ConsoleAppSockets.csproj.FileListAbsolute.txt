@@ -1,0 +1,16 @@
+C:\Users\rasmu\RiderProjects\ConsoleAppSockets\ConsoleAppSockets\bin\Debug\net6.0\ConsoleAppSockets.exe
+C:\Users\rasmu\RiderProjects\ConsoleAppSockets\ConsoleAppSockets\bin\Debug\net6.0\ConsoleAppSockets.deps.json
+C:\Users\rasmu\RiderProjects\ConsoleAppSockets\ConsoleAppSockets\bin\Debug\net6.0\ConsoleAppSockets.runtimeconfig.json
+C:\Users\rasmu\RiderProjects\ConsoleAppSockets\ConsoleAppSockets\bin\Debug\net6.0\ConsoleAppSockets.dll
+C:\Users\rasmu\RiderProjects\ConsoleAppSockets\ConsoleAppSockets\bin\Debug\net6.0\ref\ConsoleAppSockets.dll
+C:\Users\rasmu\RiderProjects\ConsoleAppSockets\ConsoleAppSockets\bin\Debug\net6.0\ConsoleAppSockets.pdb
+C:\Users\rasmu\RiderProjects\ConsoleAppSockets\ConsoleAppSockets\obj\Debug\net6.0\ConsoleAppSockets.GlobalUsings.g.cs
+C:\Users\rasmu\RiderProjects\ConsoleAppSockets\ConsoleAppSockets\obj\Debug\net6.0\ConsoleAppSockets.csproj.AssemblyReference.cache
+C:\Users\rasmu\RiderProjects\ConsoleAppSockets\ConsoleAppSockets\obj\Debug\net6.0\ConsoleAppSockets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmu\RiderProjects\ConsoleAppSockets\ConsoleAppSockets\obj\Debug\net6.0\ConsoleAppSockets.AssemblyInfoInputs.cache
+C:\Users\rasmu\RiderProjects\ConsoleAppSockets\ConsoleAppSockets\obj\Debug\net6.0\ConsoleAppSockets.AssemblyInfo.cs
+C:\Users\rasmu\RiderProjects\ConsoleAppSockets\ConsoleAppSockets\obj\Debug\net6.0\ConsoleAppSockets.csproj.CoreCompileInputs.cache
+C:\Users\rasmu\RiderProjects\ConsoleAppSockets\ConsoleAppSockets\obj\Debug\net6.0\ConsoleAppSockets.dll
+C:\Users\rasmu\RiderProjects\ConsoleAppSockets\ConsoleAppSockets\obj\Debug\net6.0\ref\ConsoleAppSockets.dll
+C:\Users\rasmu\RiderProjects\ConsoleAppSockets\ConsoleAppSockets\obj\Debug\net6.0\ConsoleAppSockets.pdb
+C:\Users\rasmu\RiderProjects\ConsoleAppSockets\ConsoleAppSockets\obj\Debug\net6.0\ConsoleAppSockets.genruntimeconfig.cache
