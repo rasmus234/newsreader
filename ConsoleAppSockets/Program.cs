@@ -17,9 +17,9 @@ Console.Out.WriteLine("login: " + client.Login(username,password));
 
 
 client.SelectNewsgroup("alt.comp.os.windows-11");
-var article = client.SelectArticle(250);
+var article = client.SelectArticle(10);
 
-
+Console.Out.WriteLine(article.Body);
 
 
 void printAllLines()

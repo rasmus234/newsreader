@@ -127,4 +127,14 @@ public class NewsClient
             };
         }).ToList();
     }
+    
+    public bool AddArticle(string subject, string body)
+    {
+        if (!this.CurrentNewsGroup.CanPost) return false;
+
+        Write($"post {subject}");
+        Write(body);
+        var response = ReadLine();
+        return response.StatusCode(out var statusCode) && statusCode == 340;
+    }
 }
