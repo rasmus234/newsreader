@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rasmu\\RiderProjects\\ConsoleAppSockets\\ConsoleAppSockets\\ConsoleAppSockets.csproj": {}
+    "C:\\Users\\rasmu\\RiderProjects\\newsreader\\ConsoleAppSockets\\ConsoleAppSockets.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rasmu\\RiderProjects\\ConsoleAppSockets\\ConsoleAppSockets\\ConsoleAppSockets.csproj": {
+    "C:\\Users\\rasmu\\RiderProjects\\newsreader\\ConsoleAppSockets\\ConsoleAppSockets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rasmu\\RiderProjects\\ConsoleAppSockets\\ConsoleAppSockets\\ConsoleAppSockets.csproj",
+        "projectUniqueName": "C:\\Users\\rasmu\\RiderProjects\\newsreader\\ConsoleAppSockets\\ConsoleAppSockets.csproj",
         "projectName": "ConsoleAppSockets",
-        "projectPath": "C:\\Users\\rasmu\\RiderProjects\\ConsoleAppSockets\\ConsoleAppSockets\\ConsoleAppSockets.csproj",
+        "projectPath": "C:\\Users\\rasmu\\RiderProjects\\newsreader\\ConsoleAppSockets\\ConsoleAppSockets.csproj",
         "packagesPath": "C:\\Users\\rasmu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rasmu\\RiderProjects\\ConsoleAppSockets\\ConsoleAppSockets\\obj\\",
+        "outputPath": "C:\\Users\\rasmu\\RiderProjects\\newsreader\\ConsoleAppSockets\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\rasmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

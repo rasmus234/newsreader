@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "27toJ8roktsJXzVHMkrTVY7wJ7zPn55Ef2xwY+4gIWQ3NON+oX4KF8cZHPvUkZq3Qqj8uZ91eH6a3cuoWExqjg==",
+  "dgSpecHash": "1AZzs9N+iGmBPe2Bh1pC2TvdiTU5nKM2FdMjIWvwaH3Db8EliW5T3ihnT12a9yTfSOQd+H7++j2PCOCaHdg/7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rasmu\\RiderProjects\\ConsoleAppSockets\\ConsoleAppSockets\\ConsoleAppSockets.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\rasmu\\RiderProjects\\newsreader\\ConsoleAppSockets\\ConsoleAppSockets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rasmu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rasmu\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\rasmu\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512"
+  ],
   "logs": []
 }
